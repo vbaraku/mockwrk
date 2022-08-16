@@ -31,5 +31,6 @@ public class Cmecxb {
         System.out.println("eqdxg");
         System.out.println("edgdb");
         System.out.println("txqwd");
+        System.out.println("aqsgw");
     }
 }
