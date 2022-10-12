@@ -43,6 +43,6 @@ public class Cmecxb {
         System.out.println("rnmct");
         System.out.println("luotr");
         System.out.println("rshmo");
-        System.out.println("hltyp");
+        System.out.println("lrpyv");
     }
 }
