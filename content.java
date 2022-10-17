@@ -15,5 +15,6 @@ public class Cmecxb {
         System.out.println("kyuxi");
         System.out.println("okrip");
         System.out.println("bdyyr");
+        System.out.println("lgqsb");
     }
 }
