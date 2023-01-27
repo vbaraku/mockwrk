@@ -21,5 +21,6 @@ public class Cmecxb {
         System.out.println("ugwvr");
         System.out.println("xgqgo");
         System.out.println("gisox");
+        System.out.println("tuoai");
     }
 }
