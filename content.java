@@ -27,5 +27,6 @@ public class Cmecxb {
         System.out.println("gnpft");
         System.out.println("gbslw");
         System.out.println("btusp");
+        System.out.println("dwsxr");
     }
 }
