@@ -29,6 +29,5 @@ public class Cmecxb {
         System.out.println("btusp");
         System.out.println("iqjwn");
         System.out.println("eqdxg");
-        System.out.println("fiuuj");
     }
 }
